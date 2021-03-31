@@ -2,7 +2,6 @@
   "name": "mono-repo-tools-playground",
   "description": "Mono-repo Tools Playground",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
   "private": true,
   "workspaces": [
